@@ -14,7 +14,5 @@
    - Price prediction code for cartesi
 4. [scaffold oracle reader](./ref/scaffold-oracle-reader)
    - https://github.com/chronicleprotocol/scaffold-oracle-reader.git
-5. [Ethereum contracts](./ref/contracts)
-   - Init from https://docs.chroniclelabs.org/Developers/tutorials/Remix
-6. [TokenVendor](./ref/TokenVendor)
+5. [TokenVendor](./ref/TokenVendor)
    - https://github.com/biancabuzea200/TokenVendor
