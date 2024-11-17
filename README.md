@@ -16,3 +16,9 @@
    - https://github.com/chronicleprotocol/scaffold-oracle-reader.git
 5. [TokenVendor](./ref/TokenVendor)
    - https://github.com/biancabuzea200/TokenVendor
+
+
+## Contracts
+
+1. Token: 0x335dECCe96b51Dfdf07170555c03fE9666c63460
+2. TokenVendor: 0x9f1d27a75887D72FFcD4139C2F95eEa35A890a70
